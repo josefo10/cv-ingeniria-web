@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.imagen-con-fondo {
+    background-color: white;
+    display: inline-block; 
+    padding: 10px; 
+}
+
+.degrade {
+  background: linear-gradient(to bottom, #ffffff, #CACFD2);
+}
+
